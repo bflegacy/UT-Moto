@@ -1,0 +1,46 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>UT Moto</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<link rel="stylesheet" href="css/link.css" type="text/css" media="all" charset="utf-8" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+	<script type="text/javascript">
+		// $(function(){
+		// 
+		// });
+	</script>
+</head>
+
+<body id="home">
+	<div id="wrapper">
+	
+		<div id="header">
+			<h1>UTMOTO</h1>
+		</div>
+	
+		<div id="content">
+			<h1>Perfection is a road. Not a destination.</h1>
+			
+			<ul id="dealers">
+				<li><a id="bmw" href="http://www.bmwmotorcyclesofutah.com/Default.asp">BMW Motorcycles of Utah</a></li>
+				<li><a id="harrison" href="http://www.harrisonimports.net/index.htm">Harrison Imports</a></li>
+				<li><a id="triumph" href="http://www.triumphofutah.com/">Triumph</a></li>
+				<li><a id="vespa" href="http://www.vespa-utah.com/">Vespa</a></li>
+			
+			</ul>
+				
+		</div>
+	
+	</div>
+	
+	<div id="footer">
+		
+		<p>
+			<a href="#">Contact Us</a> | 
+			<a href="#">Privacy</a> |
+			&copy; 2012 Integrated Moto Group Inc.</p>
+		
+	</div>
+	
+</body>
+</html>
