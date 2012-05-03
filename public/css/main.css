@@ -77,7 +77,8 @@ body{
 
 #page #content p{
 	margin: 0 0 2em;
-	font: 14px/18px sans-serif;
+	font: 14px/22px sans-serif;
+	color: rgba(255,255,255, .8);
 }
 #page #content h5{
 	margin: 0 0 1em;
