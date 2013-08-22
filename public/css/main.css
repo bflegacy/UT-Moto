@@ -21,10 +21,26 @@ body{
 	padding-top: 160px;
 }
 #home #content h1{
-	height: 160px;
+	height: 180px;
 	text-indent: -5000px;
 	background: url(../images/utmoto-header.png) top center no-repeat;
 }
+
+#home #content h2{
+	margin-top: 30px;
+	height: 78px;
+	text-indent: -5000px;
+	background: url(../images/register_copy.png) top center no-repeat;
+}
+
+#home #content h3 a{
+	margin-top: 30px;
+	height: 45px;
+	text-indent: -5000px;
+	background: url(../images/button.png) top center no-repeat;
+	display: block;
+}
+
 #home #content #dealers{
 	list-style: none;
 	margin-top: 190px;
