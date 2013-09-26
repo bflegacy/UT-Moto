@@ -62,6 +62,8 @@ body{
 #home #content #dealers li a#harrison{ background: url(../images/harrison_logo.png) center center no-repeat; }
 #home #content #dealers li a#triumph{ background: url(../images/triumph_logo.png) center center no-repeat; }
 #home #content #dealers li a#vespa{ background: url(../images/vespa_logo.png) center center no-repeat; }
+#home #content #dealers li a#aprilia{ background: url(../images/aprillia_logo.png) center center no-repeat; }
+#home #content #dealers li a#moto-guzzi{ background: url(../images/moto_guzzi_logo.png) center center no-repeat; }
 
  #footer {
 	margin: 80px auto;
